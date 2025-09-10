@@ -86,6 +86,6 @@ async def handle_message(m: Message):
     asyncio.create_task(sender.send_video())
 
 
-bot.start(bot_token=BOT_TOKEN)
+bot.start(7237699304:AAEm3dV2ycRQldfqJNUYh2DVF4T6_xI-lpw)
 
 bot.run_until_disconnected()
